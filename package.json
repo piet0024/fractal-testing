@@ -1,0 +1,17 @@
+{
+  "name": "fractal-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@frctl/fractal": "^1.1.7"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
